@@ -5,16 +5,6 @@ body{
     color: linear-gradient(0deg, rgba(91,45,141,1) 0%, rgba(13,19,131,1) 100%, rgba(14,0,47,1) 100%);
     font-family: "Righteous", sans-serif;
     margin: 0;
-    background-image:
-    repeating-linear-gradient(
-        to right, #2d2a44 0 1px, transparent 2px 200px
-    ),
-    repeating-linear-gradient(
-        to bottom, #2d2a44 0 1px, transparent 2px 200px
-    ),
-    radial-gradient(
-        at 50% 50%, #2d2a44, #1d1b34
-    );
 }
 ::-webkit-scrollbar{
     width: 0;
